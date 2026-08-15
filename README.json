@@ -19,7 +19,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67068
+            "stars": 67074
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T22:54:41Z",
+            "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18288
+            "stars": 18290
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-07-15T06:02:05Z",
             "owner": "antvis",
             "repo": "G6",
-            "stars": 12247
+            "stars": 12248
           }
         },
         {
@@ -210,10 +210,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:17:36Z",
+            "last_commit": "2026-08-14T19:40:29Z",
             "owner": "CesiumGS",
             "repo": "cesium",
-            "stars": 15567
+            "stars": 15570
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-12T13:59:20Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27500
+            "stars": 27503
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-05-23T09:16:01Z",
             "owner": "alibaba",
             "repo": "BizCharts",
-            "stars": 6189
+            "stars": 6188
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2026-07-21T07:58:52Z",
             "owner": "graphology",
             "repo": "graphology",
-            "stars": 1725
+            "stars": 1727
           }
         }
       ],
@@ -433,7 +433,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38198
+            "stars": 38197
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6111
+            "stars": 6113
           }
         },
         {
@@ -622,10 +622,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T22:54:41Z",
+            "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18288
+            "stars": 18290
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15776
+            "stars": 15775
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13672
+            "stars": 13670
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2024-05-14T18:30:13Z",
             "owner": "ResidentMario",
             "repo": "missingno",
-            "stars": 4213
+            "stars": 4212
           }
         },
         {
@@ -678,10 +678,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:28:13Z",
+            "last_commit": "2026-08-15T07:04:21Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3769
+            "stars": 3770
           }
         },
         {
@@ -796,10 +796,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:36:54Z",
+            "last_commit": "2026-08-15T04:22:39Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89750
+            "stars": 89773
           }
         },
         {
@@ -838,7 +838,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-17T12:08:58Z",
+            "last_commit": "2026-08-14T21:24:23Z",
             "owner": "Kanaries",
             "repo": "Rath",
             "stars": 4674
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:59:42.135Z",
+    "last_updated": "2026-08-15T07:09:07.241Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
     "enhanced_repository": "enhansome/enhansome-dataviz",
