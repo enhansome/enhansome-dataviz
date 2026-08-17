@@ -19,7 +19,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67081
+            "stars": 67085
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18291
+            "stars": 18294
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-07-31T16:01:22Z",
             "owner": "dc-js",
             "repo": "dc.js",
-            "stars": 7431
+            "stars": 7430
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2023-09-15T20:36:03Z",
             "owner": "novus",
             "repo": "nvd3",
-            "stars": 7227
+            "stars": 7225
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-01-21T04:24:52Z",
             "owner": "hustcc",
             "repo": "echarts-for-react",
-            "stars": 5004
+            "stars": 5003
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-04-20T13:02:16Z",
             "owner": "vizzuhq",
             "repo": "vizzu-lib",
-            "stars": 2017
+            "stars": 2018
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-07-15T06:02:05Z",
             "owner": "antvis",
             "repo": "G6",
-            "stars": 12249
+            "stars": 12252
           }
         },
         {
@@ -306,10 +306,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:32:51Z",
+            "last_commit": "2026-08-17T07:22:44Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27505
+            "stars": 27506
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38197
+            "stars": 38195
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18291
+            "stars": 18294
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15775
+            "stars": 15776
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13673
+            "stars": 13672
           }
         },
         {
@@ -678,10 +678,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:03:38Z",
+            "last_commit": "2026-08-17T07:27:15Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3770
+            "stars": 3772
           }
         },
         {
@@ -796,10 +796,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T04:14:10Z",
+            "last_commit": "2026-08-17T04:22:15Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89788
+            "stars": 89802
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2026-08-08T13:16:42Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6614
+            "stars": 6616
           }
         },
         {
@@ -827,7 +827,7 @@
             "last_commit": "2022-05-07T10:27:15Z",
             "owner": "holman",
             "repo": "spark",
-            "stars": 6066
+            "stars": 6067
           }
         },
         {
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:15:59.064Z",
+    "last_updated": "2026-08-17T07:36:26.328Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
     "enhanced_repository": "enhansome/enhansome-dataviz",
