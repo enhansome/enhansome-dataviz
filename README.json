@@ -1,426 +1,459 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Echarts",
+              "description": "Highly customizable and interactive charts ready for big datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9185792,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T09:07:09Z",
+                "owner": "apache",
+                "repo": "echarts",
+                "stars": 67092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plotly.js",
+              "description": "Powerful declarative library with support for 20 chart types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45646037,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T23:17:02Z",
+                "owner": "plotly",
+                "repo": "plotly.js",
+                "stars": 18295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dc.js",
+              "description": "is an multi-Dimensional charting built to work natively with crossfilter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4714614,
+                "language": "JavaScript",
+                "last_commit": "2024-07-31T16:01:22Z",
+                "owner": "dc-js",
+                "repo": "dc.js",
+                "stars": 7430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVD3",
+              "description": "A reusable charting library written in d3.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6709682,
+                "language": "JavaScript",
+                "last_commit": "2023-09-15T20:36:03Z",
+                "owner": "novus",
+                "repo": "nvd3",
+                "stars": 7226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TOAST UI Chart",
+              "description": "Complete library with support for legacy browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39979936,
+                "language": "TypeScript",
+                "last_commit": "2023-10-05T00:37:48Z",
+                "owner": "nhn",
+                "repo": "tui.chart",
+                "stars": 5402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React wrapper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60322697,
+                "language": "TypeScript",
+                "last_commit": "2026-01-21T04:24:52Z",
+                "owner": "hustcc",
+                "repo": "echarts-for-react",
+                "stars": 5003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Epoch",
+              "description": "Perfect to create real-time charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11010098,
+                "language": "HTML",
+                "last_commit": "2019-02-14T08:38:22Z",
+                "owner": "epochjs",
+                "repo": "epoch",
+                "stars": 4949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vizzu",
+              "description": "Library for animated data visualizations and data stories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374784415,
+                "language": "JavaScript",
+                "last_commit": "2026-04-20T13:02:16Z",
+                "owner": "vizzuhq",
+                "repo": "vizzu-lib",
+                "stars": 2019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lit-line",
+              "description": "SVG Line Chart Web Component - light, fast, interactive & fully responsive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309348946,
+                "language": "TypeScript",
+                "last_commit": "2024-12-18T10:53:32Z",
+                "owner": "apinet",
+                "repo": "lit-line",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Charting libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "G6",
+              "description": "Graph visualization library powered by Javascript & Typescript, maintained by Alibaba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81810486,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T06:02:05Z",
+                "owner": "antvis",
+                "repo": "G6",
+                "stars": 12260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VivaGraph",
+              "description": "Graph drawing library for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3003488,
+                "language": "JavaScript",
+                "last_commit": "2026-03-06T07:34:34Z",
+                "owner": "anvaka",
+                "repo": "VivaGraphJS",
+                "stars": 3860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uber React Digraph",
+              "description": "React.js based directed graph library maintained by UBER.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73456643,
+                "language": "JavaScript",
+                "last_commit": "2023-09-05T19:29:38Z",
+                "owner": "uber",
+                "repo": "react-digraph",
+                "stars": 2643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diagram.js",
+              "description": "Javascript diagram library serving as the basis for camunda's online BPMN modeler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16174770,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T09:36:55Z",
+                "owner": "bpmn-io",
+                "repo": "diagram-js",
+                "stars": 1916
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Charting libraries for graphs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cesium",
+              "description": "WebGL 3D globes and maps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3606738,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T22:21:32Z",
+                "owner": "CesiumGS",
+                "repo": "cesium",
+                "stars": 15579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L7",
+              "description": "Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158575679,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T10:03:41Z",
+                "owner": "antvis",
+                "repo": "L7",
+                "stars": 4052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DataMaps",
+              "description": "Interactive SVG maps using D3.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6631214,
+                "language": "JavaScript",
+                "last_commit": "2026-02-10T21:28:39Z",
+                "owner": "markmarkoh",
+                "repo": "datamaps",
+                "stars": 3799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mapael",
+              "description": "jQuery plugin based on raphael.js to display vector maps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10887157,
+                "language": "JavaScript",
+                "last_commit": "2022-02-09T13:01:44Z",
+                "owner": "neveldo",
+                "repo": "jQuery-Mapael",
+                "stars": 1007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L7 Plot",
+              "description": "Geospatial Visualization Chart Library, maintained by Alibaba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379210853,
+                "language": "TypeScript",
+                "last_commit": "2024-07-15T15:02:48Z",
+                "owner": "antvis",
+                "repo": "L7Plot",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dipper",
+              "description": "Map application development framework powered by L7, maintained by Alibaba.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 421479206,
+                "language": "TypeScript",
+                "last_commit": "2023-05-23T13:24:41Z",
+                "owner": "antvis",
+                "repo": "Dipper",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recharts",
+              "description": "Declarative react components to render D3 charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40345658,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T15:57:16Z",
+                "owner": "recharts",
+                "repo": "recharts",
+                "stars": 27508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nivo",
+              "description": "Supercharged dataviz components for React with isomorphic ability, demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56363563,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T02:46:40Z",
+                "owner": "plouc",
+                "repo": "nivo",
+                "stars": 14085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React-vis",
+              "description": "React components to build data visualizations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52304362,
+                "language": "JavaScript",
+                "last_commit": "2024-12-18T22:24:34Z",
+                "owner": "uber",
+                "repo": "react-vis",
+                "stars": 8784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BizCharts",
+              "description": "Data visualization library based on G2 and React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110222380,
+                "language": "TypeScript",
+                "last_commit": "2025-05-23T09:16:01Z",
+                "owner": "alibaba",
+                "repo": "BizCharts",
+                "stars": 6188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphin",
+              "description": "Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220000738,
+                "language": "TypeScript",
+                "last_commit": "2025-11-18T06:05:14Z",
+                "owner": "antvis",
+                "repo": "Graphin",
+                "stars": 1098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Svg Textures",
+              "description": "Textures.js ported to React. Fully isomorphic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121444916,
+                "language": "JavaScript",
+                "last_commit": "2018-04-17T18:25:50Z",
+                "owner": "finnfiddle",
+                "repo": "react-svg-textures",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React"
+        }
+      ],
       "title": "JavaScript tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Echarts",
-          "description": "Highly customizable and interactive charts ready for big datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-04T09:07:09Z",
-            "owner": "apache",
-            "repo": "echarts",
-            "stars": 67088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plotly.js",
-          "description": "Powerful declarative library with support for 20 chart types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:27:30Z",
-            "owner": "plotly",
-            "repo": "plotly.js",
-            "stars": 18293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dc.js",
-          "description": "is an multi-Dimensional charting built to work natively with crossfilter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-31T16:01:22Z",
-            "owner": "dc-js",
-            "repo": "dc.js",
-            "stars": 7431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NVD3",
-          "description": "A reusable charting library written in d3.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-15T20:36:03Z",
-            "owner": "novus",
-            "repo": "nvd3",
-            "stars": 7226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TOAST UI Chart",
-          "description": "Complete library with support for legacy browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-05T00:37:48Z",
-            "owner": "nhn",
-            "repo": "tui.chart",
-            "stars": 5402
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React wrapper",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Piecon",
+              "description": "Pie charts in your favicon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5265008,
+                "language": "JavaScript",
+                "last_commit": "2022-10-12T17:56:44Z",
+                "owner": "lipka",
+                "repo": "piecon",
+                "stars": 2297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphology",
+              "description": "A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66482976,
+                "language": "JavaScript",
+                "last_commit": "2026-07-21T07:58:52Z",
+                "owner": "graphology",
+                "repo": "graphology",
+                "stars": 1729
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-21T04:24:52Z",
-            "owner": "hustcc",
-            "repo": "echarts-for-react",
-            "stars": 5003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Epoch",
-          "description": "Perfect to create real-time charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-02-14T08:38:22Z",
-            "owner": "epochjs",
-            "repo": "epoch",
-            "stars": 4950
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vizzu",
-          "description": "Library for animated data visualizations and data stories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-20T13:02:16Z",
-            "owner": "vizzuhq",
-            "repo": "vizzu-lib",
-            "stars": 2018
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lit-line",
-          "description": "SVG Line Chart Web Component - light, fast, interactive & fully responsive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-18T10:53:32Z",
-            "owner": "apinet",
-            "repo": "lit-line",
-            "stars": 22
-          }
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
-      "title": "Charting libraries"
+      "title": "React Native"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "G6",
-          "description": "Graph visualization library powered by Javascript & Typescript, maintained by Alibaba",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T06:02:05Z",
-            "owner": "antvis",
-            "repo": "G6",
-            "stars": 12256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VivaGraph",
-          "description": "Graph drawing library for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-06T07:34:34Z",
-            "owner": "anvaka",
-            "repo": "VivaGraphJS",
-            "stars": 3860
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uber React Digraph",
-          "description": "React.js based directed graph library maintained by UBER.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-05T19:29:38Z",
-            "owner": "uber",
-            "repo": "react-digraph",
-            "stars": 2643
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diagram.js",
-          "description": "Javascript diagram library serving as the basis for camunda's online BPMN modeler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T04:39:34Z",
-            "owner": "bpmn-io",
-            "repo": "diagram-js",
-            "stars": 1915
-          }
-        }
-      ],
-      "title": "Charting libraries for graphs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cesium",
-          "description": "WebGL 3D globes and maps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T20:51:33Z",
-            "owner": "CesiumGS",
-            "repo": "cesium",
-            "stars": 15574
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "L7",
-          "description": "Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T10:03:41Z",
-            "owner": "antvis",
-            "repo": "L7",
-            "stars": 4049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DataMaps",
-          "description": "Interactive SVG maps using D3.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-10T21:28:39Z",
-            "owner": "markmarkoh",
-            "repo": "datamaps",
-            "stars": 3799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mapael",
-          "description": "jQuery plugin based on raphael.js to display vector maps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-09T13:01:44Z",
-            "owner": "neveldo",
-            "repo": "jQuery-Mapael",
-            "stars": 1007
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "L7 Plot",
-          "description": "Geospatial Visualization Chart Library, maintained by Alibaba",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-15T15:02:48Z",
-            "owner": "antvis",
-            "repo": "L7Plot",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dipper",
-          "description": "Map application development framework powered by L7, maintained by Alibaba.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-05-23T13:24:41Z",
-            "owner": "antvis",
-            "repo": "Dipper",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CARTO",
-          "description": "CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.",
-          "children": []
-        }
-      ],
-      "title": "Maps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Recharts",
-          "description": "Declarative react components to render D3 charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:21:02Z",
-            "owner": "recharts",
-            "repo": "recharts",
-            "stars": 27503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nivo",
-          "description": "Supercharged dataviz components for React with isomorphic ability, demo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T02:46:40Z",
-            "owner": "plouc",
-            "repo": "nivo",
-            "stars": 14085
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React-vis",
-          "description": "React components to build data visualizations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-18T22:24:34Z",
-            "owner": "uber",
-            "repo": "react-vis",
-            "stars": 8784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BizCharts",
-          "description": "Data visualization library based on G2 and React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-23T09:16:01Z",
-            "owner": "alibaba",
-            "repo": "BizCharts",
-            "stars": 6188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphin",
-          "description": "Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-18T06:05:14Z",
-            "owner": "antvis",
-            "repo": "Graphin",
-            "stars": 1098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React Svg Textures",
-          "description": "Textures.js ported to React. Fully isomorphic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-17T18:25:50Z",
-            "owner": "finnfiddle",
-            "repo": "react-svg-textures",
-            "stars": 32
-          }
-        }
-      ],
-      "title": "React"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Piecon",
-          "description": "Pie charts in your favicon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-12T17:56:44Z",
-            "owner": "lipka",
-            "repo": "piecon",
-            "stars": 2297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphology",
-          "description": "A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-21T07:58:52Z",
-            "owner": "graphology",
-            "repo": "graphology",
-            "stars": 1729
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -429,6 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19148949,
             "language": "Java",
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
@@ -443,11 +477,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22572203,
             "language": "Kotlin",
             "last_commit": "2025-10-04T22:07:03Z",
             "owner": "diogobernardino",
             "repo": "williamchart",
-            "stars": 5103
+            "stars": 5102
           }
         },
         {
@@ -457,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40296962,
             "language": "Java",
             "last_commit": "2022-02-28T06:51:02Z",
             "owner": "bmarrdev",
@@ -468,7 +504,7 @@
       "title": "Android tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -477,6 +513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52909975,
             "language": "C++",
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
@@ -491,6 +528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62624826,
             "language": "C++",
             "last_commit": "2023-05-31T19:07:31Z",
             "owner": "lferry007",
@@ -502,7 +540,7 @@
       "title": "C++ tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -511,6 +549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165092572,
             "language": "Go",
             "last_commit": "2026-07-20T02:57:44Z",
             "owner": "go-echarts",
@@ -525,6 +564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11601889,
             "language": "Go",
             "last_commit": "2026-04-22T12:26:09Z",
             "owner": "gonum",
@@ -539,6 +579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 549192,
             "language": "Go",
             "last_commit": "2022-12-09T13:57:06Z",
             "owner": "ajstarks",
@@ -550,7 +591,7 @@
       "title": "Golang tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -559,11 +600,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32578467,
             "language": "Swift",
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28010
+            "stars": 28009
           }
         },
         {
@@ -573,11 +615,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14187079,
             "language": "Objective-C",
             "last_commit": "2018-07-02T12:43:03Z",
             "owner": "kevinzhow",
             "repo": "PNChart",
-            "stars": 9647
+            "stars": 9646
           }
         },
         {
@@ -587,11 +630,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14386080,
             "language": "Objective-C",
             "last_commit": "2018-08-06T21:57:46Z",
             "owner": "Jawbone",
             "repo": "JBChartView",
-            "stars": 3702
+            "stars": 3701
           }
         },
         {
@@ -601,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15592138,
             "language": "Objective-C",
             "last_commit": "2019-05-01T14:20:10Z",
             "owner": "Boris-Em",
@@ -612,7 +657,7 @@
       "title": "iOS tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -621,11 +666,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T22:27:30Z",
+            "last_commit": "2026-08-18T23:17:02Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18293
+            "stars": 18295
           }
         },
         {
@@ -635,11 +681,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95067884,
             "language": "Python",
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15776
+            "stars": 15777
           }
         },
         {
@@ -649,11 +696,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49346299,
             "language": "Python",
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13672
+            "stars": 13676
           }
         },
         {
@@ -663,6 +711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54834492,
             "language": "Python",
             "last_commit": "2024-05-14T18:30:13Z",
             "owner": "ResidentMario",
@@ -677,11 +726,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-18T07:09:31Z",
+            "last_commit": "2026-08-19T05:56:25Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3773
+            "stars": 3774
           }
         },
         {
@@ -691,6 +741,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13384593,
             "language": "Python",
             "last_commit": "2023-01-21T20:19:13Z",
             "owner": "yhat",
@@ -705,6 +756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149135719,
             "language": "Python",
             "last_commit": "2024-10-16T14:47:17Z",
             "owner": "spotify",
@@ -719,6 +771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23520171,
             "language": "Python",
             "last_commit": "2025-07-15T09:44:18Z",
             "owner": "glumpy",
@@ -733,6 +786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140545769,
             "language": "C++",
             "last_commit": "2020-09-17T19:34:33Z",
             "owner": "heremaps",
@@ -747,6 +801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25441251,
             "language": "Python",
             "last_commit": "2022-04-13T17:56:28Z",
             "owner": "tehmaze",
@@ -761,11 +816,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193933687,
             "language": "Python",
             "last_commit": "2024-08-24T18:05:37Z",
             "owner": "nicohlr",
             "repo": "ipychart",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -775,6 +831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179490554,
             "language": "Python",
             "last_commit": "2023-01-19T02:16:26Z",
             "owner": "stemkoski",
@@ -795,11 +852,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:45:48Z",
+            "last_commit": "2026-08-19T04:47:53Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89817
+            "stars": 89841
           }
         },
         {
@@ -809,11 +867,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2624521,
             "language": "Java",
             "last_commit": "2026-08-08T13:16:42Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6616
+            "stars": 6617
           }
         },
         {
@@ -823,6 +882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2777268,
             "language": "Shell",
             "last_commit": "2022-05-07T10:27:15Z",
             "owner": "holman",
@@ -837,6 +897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204949916,
             "language": "TypeScript",
             "last_commit": "2026-08-14T21:24:23Z",
             "owner": "Kanaries",
@@ -851,6 +912,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26663083,
             "language": "JavaScript",
             "last_commit": "2017-10-15T21:57:36Z",
             "owner": "charted-co",
@@ -863,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:52.348Z",
+    "last_updated": "2026-08-19T07:23:18.274Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
     "enhanced_repository": "enhansome/enhansome-dataviz",
