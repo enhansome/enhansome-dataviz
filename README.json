@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-04T09:07:09Z",
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67092
+                "stars": 67093
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2023-09-15T20:36:03Z",
                 "owner": "novus",
                 "repo": "nvd3",
-                "stars": 7226
+                "stars": 7225
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-04-20T13:02:16Z",
                 "owner": "vizzuhq",
                 "repo": "vizzu-lib",
-                "stars": 2019
+                "stars": 2020
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-03-06T07:34:34Z",
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3860
+                "stars": 3861
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-18T22:21:32Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15579
+                "stars": 15582
               }
             },
             {
@@ -320,7 +320,7 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T15:57:16Z",
+                "last_commit": "2026-08-19T12:18:53Z",
                 "owner": "recharts",
                 "repo": "recharts",
                 "stars": 27508
@@ -368,7 +368,7 @@
                 "last_commit": "2025-05-23T09:16:01Z",
                 "owner": "alibaba",
                 "repo": "BizCharts",
-                "stars": 6188
+                "stars": 6189
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-07-21T07:58:52Z",
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1729
+                "stars": 1730
               }
             }
           ],
@@ -728,7 +728,7 @@
             "archived": false,
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-19T05:56:25Z",
+            "last_commit": "2026-08-19T09:58:58Z",
             "owner": "pyvista",
             "repo": "pyvista",
             "stars": 3774
@@ -854,10 +854,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:47:53Z",
+            "last_commit": "2026-08-19T12:18:22Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89841
+            "stars": 89842
           }
         },
         {
@@ -925,8 +925,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:23:18.274Z",
+    "last_updated": "2026-08-19T12:22:58.572Z",
     "original_repository": "hal9ai/awesome-dataviz",
+    "original_repository_id": 39454666,
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
     "enhanced_repository": "enhansome/enhansome-dataviz",
     "enhanced_repository_description": null,
