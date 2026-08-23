@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-04T09:07:09Z",
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67117
+                "stars": 67125
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 45646037,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:32:39Z",
+                "last_commit": "2026-08-22T22:59:53Z",
                 "owner": "plotly",
                 "repo": "plotly.js",
                 "stars": 18296
@@ -159,7 +159,7 @@
                 "last_commit": "2026-07-15T06:02:05Z",
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12268
+                "stars": 12269
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-21T21:05:31Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15591
+                "stars": 15593
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-07-30T10:03:41Z",
                 "owner": "antvis",
                 "repo": "L7",
-                "stars": 4054
+                "stars": 4055
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2024-07-15T15:02:48Z",
                 "owner": "antvis",
                 "repo": "L7Plot",
-                "stars": 92
+                "stars": 91
               }
             },
             {
@@ -320,10 +320,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:59:19Z",
+                "last_commit": "2026-08-22T19:21:17Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27514
+                "stars": 27516
               }
             },
             {
@@ -467,7 +467,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38191
+            "stars": 38192
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2026-07-20T02:57:44Z",
             "owner": "go-echarts",
             "repo": "go-echarts",
-            "stars": 7636
+            "stars": 7635
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28010
+            "stars": 28011
           }
         },
         {
@@ -668,7 +668,7 @@
             "archived": false,
             "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T20:32:39Z",
+            "last_commit": "2026-08-22T22:59:53Z",
             "owner": "plotly",
             "repo": "plotly.js",
             "stars": 18296
@@ -728,10 +728,10 @@
             "archived": false,
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-22T06:14:02Z",
+            "last_commit": "2026-08-22T17:44:00Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3777
+            "stars": 3779
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2026-08-21T14:16:08Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89877
+            "stars": 89895
           }
         },
         {
@@ -869,10 +869,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-19T15:03:13Z",
+            "last_commit": "2026-08-23T07:18:21Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6618
+            "stars": 6619
           }
         },
         {
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:17:04.356Z",
+    "last_updated": "2026-08-23T07:18:24.572Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_id": 39454666,
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
