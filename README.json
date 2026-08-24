@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-04T09:07:09Z",
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67132
+                "stars": 67137
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-04-20T13:02:16Z",
                 "owner": "vizzuhq",
                 "repo": "vizzu-lib",
-                "stars": 2022
+                "stars": 2023
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-07-15T06:02:05Z",
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12271
+                "stars": 12272
               }
             },
             {
@@ -313,6 +313,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "See Awesome D3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35890808,
+                "language": null,
+                "last_commit": "2023-01-13T16:10:34Z",
+                "owner": "wbkd",
+                "repo": "awesome-d3",
+                "stars": 5318
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "d3"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Recharts",
               "description": "Declarative react components to render D3 charts.",
               "children": [],
@@ -320,10 +342,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:20:57Z",
+                "last_commit": "2026-08-24T13:25:05Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27516
+                "stars": 27517
               }
             },
             {
@@ -338,7 +360,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14087
+                "stars": 14088
               }
             },
             {
@@ -412,6 +434,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "F2",
+          "description": "An elegant, interactive and flexible charting library for mobile, maintained by Alibaba",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66817370,
+            "language": "JavaScript",
+            "last_commit": "2026-05-19T10:57:41Z",
+            "owner": "antvis",
+            "repo": "F2",
+            "stars": 7993
+          }
+        },
         {
           "children": [
             {
@@ -605,7 +642,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28012
+            "stars": 28013
           }
         },
         {
@@ -686,7 +723,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15777
+            "stars": 15778
           }
         },
         {
@@ -701,7 +738,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683
+            "stars": 13685
           }
         },
         {
@@ -728,7 +765,7 @@
             "archived": false,
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-24T07:34:12Z",
+            "last_commit": "2026-08-24T09:48:17Z",
             "owner": "pyvista",
             "repo": "pyvista",
             "stars": 3782
@@ -843,6 +880,48 @@
       "title": "Python tools"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plotly",
+          "description": "Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14579179,
+            "language": "R",
+            "last_commit": "2026-07-25T00:33:15Z",
+            "owner": "plotly",
+            "repo": "plotly.R",
+            "stars": 2677
+          }
+        }
+      ],
+      "title": "R tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chartkick",
+          "description": "Create charts with one line of Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9906653,
+            "language": "Ruby",
+            "last_commit": "2026-08-15T21:05:19Z",
+            "owner": "ankane",
+            "repo": "chartkick",
+            "stars": 6528
+          }
+        }
+      ],
+      "title": "Ruby tools"
+    },
+    {
       "description": "Tools that are not tied to a particular platform or language.",
       "items": [
         {
@@ -854,10 +933,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:16:08Z",
+            "last_commit": "2026-08-24T13:04:42Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89911
+            "stars": 89916
           }
         },
         {
@@ -869,7 +948,7 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-23T14:31:27Z",
+            "last_commit": "2026-08-24T08:18:43Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6620
@@ -887,7 +966,7 @@
             "last_commit": "2022-05-07T10:27:15Z",
             "owner": "holman",
             "repo": "spark",
-            "stars": 6067
+            "stars": 6066
           }
         },
         {
@@ -925,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:42:11.270Z",
+    "last_updated": "2026-08-24T13:55:48.573Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_id": 39454666,
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
