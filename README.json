@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-04T09:07:09Z",
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67148
+                "stars": 67149
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2023-10-05T00:37:48Z",
                 "owner": "nhn",
                 "repo": "tui.chart",
-                "stars": 5402
+                "stars": 5401
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-04-20T13:02:16Z",
                 "owner": "vizzuhq",
                 "repo": "vizzu-lib",
-                "stars": 2023
+                "stars": 2024
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-07-15T06:02:05Z",
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12271
+                "stars": 12272
               }
             },
             {
@@ -223,10 +223,10 @@
                 "archived": false,
                 "id": 3606738,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T05:13:02Z",
+                "last_commit": "2026-08-25T22:21:22Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15598
+                "stars": 15604
               }
             },
             {
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:59:51Z",
+                "last_commit": "2026-08-26T06:15:24Z",
                 "owner": "recharts",
                 "repo": "recharts",
                 "stars": 27517
@@ -478,7 +478,7 @@
                 "last_commit": "2026-07-21T07:58:52Z",
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1733
+                "stars": 1734
               }
             }
           ],
@@ -504,7 +504,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38193
+            "stars": 38192
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-07-20T02:57:44Z",
             "owner": "go-echarts",
             "repo": "go-echarts",
-            "stars": 7636
+            "stars": 7637
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2022-12-09T13:57:06Z",
             "owner": "ajstarks",
             "repo": "svgo",
-            "stars": 2247
+            "stars": 2248
           }
         }
       ],
@@ -723,7 +723,7 @@
             "last_commit": "2026-08-04T05:03:08Z",
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15776
+            "stars": 15777
           }
         },
         {
@@ -765,10 +765,10 @@
             "archived": false,
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-25T07:12:34Z",
+            "last_commit": "2026-08-26T06:57:04Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3783
+            "stars": 3785
           }
         },
         {
@@ -933,10 +933,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:10:02Z",
+            "last_commit": "2026-08-25T15:09:17Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89934
+            "stars": 89943
           }
         },
         {
@@ -948,10 +948,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-24T21:31:42Z",
+            "last_commit": "2026-08-25T15:22:21Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6620
+            "stars": 6621
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2026-08-14T21:24:23Z",
             "owner": "Kanaries",
             "repo": "Rath",
-            "stars": 4677
+            "stars": 4678
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:27:58.587Z",
+    "last_updated": "2026-08-26T07:29:30.572Z",
     "original_repository": "hal9ai/awesome-dataviz",
     "original_repository_id": 39454666,
     "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
