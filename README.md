@@ -1,8 +1,8 @@
 # Awesome Dataviz with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,015 | 🐛 106 | 📅 2026-08-21 ![Test](https://github.com/javierluraschi/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 ![Test](https://github.com/javierluraschi/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
 
-A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,117 | 🐛 15 | 🌐 Python | 📅 2026-08-25 and originally created by [fasouto](https://github.com/fasouto).
+A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,379 | 🐛 15 | 🌐 Python | 📅 2026-08-25 and originally created by [fasouto](https://github.com/fasouto).
 
 ## Contents
 
@@ -36,14 +36,14 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ### Charting libraries
 
-* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,149 | 🐛 1,538 | 🌐 TypeScript | 📅 2026-08-04 - Highly customizable and interactive charts ready for big datasets.
-* [Plotly.js](https://github.com/plotly/plotly.js/) ⭐ 18,300 | 🐛 823 | 🌐 JavaScript | 📅 2026-08-25 - Powerful declarative library with support for 20 chart types.
+* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,160 | 🐛 1,537 | 🌐 TypeScript | 📅 2026-08-04 - Highly customizable and interactive charts ready for big datasets.
+* [Plotly.js](https://github.com/plotly/plotly.js/) ⭐ 18,301 | 🐛 822 | 🌐 JavaScript | 📅 2026-08-25 - Powerful declarative library with support for 20 chart types.
 * [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,429 | 🐛 412 | 🌐 JavaScript | 📅 2024-07-31 is an multi-Dimensional charting built to work natively with crossfilter.
-* [NVD3](https://github.com/novus/nvd3) ⭐ 7,225 | 🐛 565 | 🌐 JavaScript | 📅 2023-09-15 - A reusable charting library written in d3.js.
+* [NVD3](https://github.com/novus/nvd3) ⭐ 7,226 | 🐛 565 | 🌐 JavaScript | 📅 2023-09-15 - A reusable charting library written in d3.js.
 * [TOAST UI Chart](https://github.com/nhnent/tui.chart) ⭐ 5,401 | 🐛 24 | 🌐 TypeScript | 📅 2023-10-05 - Complete library with support for legacy browsers.
-* [React wrapper](https://github.com/hustcc/echarts-for-react) ⭐ 5,004 | 🐛 53 | 🌐 TypeScript | 📅 2026-01-21
+* [React wrapper](https://github.com/hustcc/echarts-for-react) ⭐ 5,006 | 🐛 53 | 🌐 TypeScript | 📅 2026-01-21
 * [Epoch](https://github.com/epochjs/epoch) ⭐ 4,949 | 🐛 69 | 🌐 HTML | 📅 2019-02-14 - Perfect to create real-time charts.
-* [Vizzu](https://github.com/vizzuhq/vizzu-lib) ⭐ 2,024 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-20 - Library for animated data visualizations and data stories.
+* [Vizzu](https://github.com/vizzuhq/vizzu-lib) ⭐ 2,027 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-20 - Library for animated data visualizations and data stories.
 * [lit-line](https://github.com/apinet/lit-line) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-18 - SVG Line Chart Web Component - light, fast, interactive & fully responsive.
 * [ApexCharts](https://apexcharts.com/) - Modern & Interactive SVG Charts.
 * [Chart.js](https://www.chartjs.org/) - Charts with the canvas tag.
@@ -58,16 +58,16 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 ### Charting libraries for graphs
 
 * [G6](https://github.com/antvis/g6) ⭐ 12,272 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Graph visualization library powered by Javascript & Typescript, maintained by Alibaba
-* [VivaGraph](https://github.com/anvaka/VivaGraphJS) ⭐ 3,862 | 🐛 114 | 🌐 JavaScript | 📅 2026-03-06 - Graph drawing library for JavaScript.
+* [VivaGraph](https://github.com/anvaka/VivaGraphJS) ⭐ 3,861 | 🐛 114 | 🌐 JavaScript | 📅 2026-03-06 - Graph drawing library for JavaScript.
 * [Uber React Digraph](https://github.com/uber/react-digraph) ⭐ 2,642 | 🐛 91 | 🌐 JavaScript | 📅 2023-09-05 - React.js based directed graph library maintained by UBER.
-* [diagram.js](https://github.com/bpmn-io/diagram-js) ⭐ 1,917 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-18 - Javascript diagram library serving as the basis for camunda's online BPMN modeler.
+* [diagram.js](https://github.com/bpmn-io/diagram-js) ⭐ 1,918 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-26 - Javascript diagram library serving as the basis for camunda's online BPMN modeler.
 * [Cola.js](https://marvl.infotech.monash.edu/webcola/) - A tool to create diagrams using constraint-based optimization techniques. Works with d3 and svg.js.
 * [Cytoscape.js](https://js.cytoscape.org/) - JavaScript library for graph drawing maintained by [Cytoscape](https://www.cytoscape.org) core developers.
 * [Sigma.js](https://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 
 ### Maps
 
-* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,604 | 🐛 1,656 | 🌐 JavaScript | 📅 2026-08-25 - WebGL 3D globes and maps.
+* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,611 | 🐛 1,657 | 🌐 JavaScript | 📅 2026-08-27 - WebGL 3D globes and maps.
 * [L7](https://github.com/antvis/L7) ⭐ 4,056 | 🐛 214 | 🌐 TypeScript | 📅 2026-07-30 - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba
 * [DataMaps](https://github.com/markmarkoh/datamaps) ⭐ 3,799 | 🐛 229 | 🌐 JavaScript | 📅 2026-02-10 - Interactive SVG maps using D3.js.
 * [Mapael](https://github.com/neveldo/jQuery-Mapael) ⭐ 1,007 | 🐛 71 | 🌐 JavaScript | 📅 2022-02-09 - jQuery plugin based on raphael.js to display vector maps.
@@ -83,10 +83,10 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ### React
 
-* [Recharts](https://github.com/recharts/recharts) ⭐ 27,517 | 🐛 435 | 🌐 TypeScript | 📅 2026-08-26 - Declarative react components to render D3 charts.
-* [nivo](https://github.com/plouc/nivo) ⭐ 14,090 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-21 - Supercharged dataviz components for React with isomorphic ability, [demo](https://nivo.rocks).
+* [Recharts](https://github.com/recharts/recharts) ⭐ 27,516 | 🐛 435 | 🌐 TypeScript | 📅 2026-08-27 - Declarative react components to render D3 charts.
+* [nivo](https://github.com/plouc/nivo) ⭐ 14,091 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-21 - Supercharged dataviz components for React with isomorphic ability, [demo](https://nivo.rocks).
 * [React-vis](https://github.com/uber/react-vis) ⭐ 8,787 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - React components to build data visualizations.
-* [BizCharts](https://github.com/alibaba/BizCharts) ⭐ 6,189 | 🐛 360 | 🌐 TypeScript | 📅 2025-05-23 - Data visualization library based on [G2](https://github.com/antvis/G2) ⭐ 12,595 | 🐛 182 | 🌐 TypeScript | 📅 2026-07-15 and React
+* [BizCharts](https://github.com/alibaba/BizCharts) ⭐ 6,188 | 🐛 360 | 🌐 TypeScript | 📅 2025-05-23 - Data visualization library based on [G2](https://github.com/antvis/G2) ⭐ 12,595 | 🐛 182 | 🌐 TypeScript | 📅 2026-07-15 and React
 * [Graphin](https://github.com/antvis/Graphin) ⭐ 1,097 | 🐛 64 | 🌐 TypeScript | 📅 2025-11-18 - Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.
 * [React Svg Textures](https://github.com/finnfiddle/react-svg-textures) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-17 - Textures.js ported to React. Fully isomorphic.
 * [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
@@ -114,14 +114,14 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ## C++ tools
 
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,126 | 🐛 161 | 🌐 C++ | 📅 2026-08-10 - open-source Qt5 application to plot charts (based on Qwt).
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,128 | 🐛 161 | 🌐 C++ | 📅 2026-08-10 - open-source Qt5 application to plot charts (based on Qwt).
 * [LargeVis](https://github.com/lferry007/LargeVis) ⭐ 711 | 🐛 31 | 🌐 C++ | 📅 2023-05-31 - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
 * [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ## Golang tools
 
-* [go-echars](https://github.com/chenjiandongx/go-echarts) ⭐ 7,637 | 🐛 68 | 🌐 Go | 📅 2026-07-20 - Simple yet powerful data visualizing library for Go.
-* [plot](https://github.com/gonum/plot) ⭐ 2,965 | 🐛 91 | 🌐 Go | 📅 2026-04-22 - API for building and drawing plots in Go.
+* [go-echars](https://github.com/chenjiandongx/go-echarts) ⭐ 7,638 | 🐛 68 | 🌐 Go | 📅 2026-07-20 - Simple yet powerful data visualizing library for Go.
+* [plot](https://github.com/gonum/plot) ⭐ 2,966 | 🐛 91 | 🌐 Go | 📅 2026-04-22 - API for building and drawing plots in Go.
 * [svgo](https://github.com/ajstarks/svgo) ⭐ 2,248 | 🐛 16 | 🌐 Go | 📅 2022-12-09 - Go Language Library for SVG generation.
 
 ## iOS tools
@@ -137,11 +137,11 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ## Python tools
 
-* [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,300 | 🐛 823 | 🌐 JavaScript | 📅 2026-08-25
-* [pyechars](https://github.com/pyecharts/pyecharts) ⭐ 15,777 | 🐛 4 | 🌐 Python | 📅 2026-08-04 - Python binding for Echarts library.
-* [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) ⭐ 13,683 | 🐛 325 | 🌐 Python | 📅 2026-04-22 - generates statistical analytic reports with visualization for quick data analysis.
-* [missingno](https://github.com/ResidentMario/missingno) ⭐ 4,212 | 🐛 14 | 🌐 Python | 📅 2024-05-14 - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
-* [PyVista](https://github.com/pyvista/pyvista) ⭐ 3,785 | 🐛 592 | 🌐 Python | 📅 2026-08-26 – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+* [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,301 | 🐛 822 | 🌐 JavaScript | 📅 2026-08-25
+* [pyechars](https://github.com/pyecharts/pyecharts) ⭐ 15,775 | 🐛 4 | 🌐 Python | 📅 2026-08-04 - Python binding for Echarts library.
+* [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) ⭐ 13,682 | 🐛 325 | 🌐 Python | 📅 2026-04-22 - generates statistical analytic reports with visualization for quick data analysis.
+* [missingno](https://github.com/ResidentMario/missingno) ⭐ 4,211 | 🐛 14 | 🌐 Python | 📅 2024-05-14 - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
+* [PyVista](https://github.com/pyvista/pyvista) ⭐ 3,787 | 🐛 589 | 🌐 Python | 📅 2026-08-27 – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * [ggplot](https://github.com/yhat/ggpy) ⚠️ Archived - plotting system based on [R's](#r-tools) ggplot2.
 * [Chartify](https://github.com/spotify/chartify) ⭐ 3,640 | 🐛 54 | 🌐 Python | 📅 2024-10-16 - Bokeh wrapper that makes it easy for data scientists to create charts.
 * [glumpy](https://github.com/glumpy/glumpy) ⭐ 1,276 | 🐛 100 | 🌐 Python | 📅 2025-07-15 - OpenGL scientific visualizations library.
@@ -163,7 +163,7 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ## R tools
 
-* [plotly](https://github.com/ropensci/plotly) ⭐ 2,677 | 🐛 759 | 🌐 R | 📅 2026-07-25 - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+* [plotly](https://github.com/ropensci/plotly) ⭐ 2,677 | 🐛 760 | 🌐 R | 📅 2026-07-25 - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 * [ggplot2](https://ggplot2.tidyverse.org/) - A plotting system based on the grammar of graphics.
 * [ggvis](https://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
 * [lattice](https://lattice.r-forge.r-project.org) - trellis graphics for R
@@ -185,10 +185,10 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 Tools that are not tied to a particular platform or language.
 
-* [Mermaid](https://github.com/knsv/mermaid) ⭐ 89,943 | 🐛 1,736 | 🌐 TypeScript | 📅 2026-08-25 - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,621 | 🐛 520 | 🌐 Java | 📅 2026-08-25 - An open-source platform for visualizing and manipulating large graphs
+* [Mermaid](https://github.com/knsv/mermaid) ⭐ 89,964 | 🐛 1,744 | 🌐 TypeScript | 📅 2026-08-27 - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,623 | 🐛 453 | 🌐 Java | 📅 2026-08-27 - An open-source platform for visualizing and manipulating large graphs
 * [Spark](https://github.com/holman/spark) ⭐ 6,066 | 🐛 17 | 🌐 Shell | 📅 2022-05-07 - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations) ⭐ 6,066 | 🐛 17 | 🌐 Shell | 📅 2022-05-07.
-* [Visual-Insights](https://github.com/ObservedObserver/visual-insights) ⭐ 4,678 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-14 - Automatic insights extraction and visualization specification in data analysis.
+* [Visual-Insights](https://github.com/ObservedObserver/visual-insights) ⭐ 4,680 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-14 - Automatic insights extraction and visualization specification in data analysis.
 * [Charted](https://github.com/mikesall/charted) ⚠️ Archived - A charting tool that produces automatic, shareable charts from any data file.
 * [Kepler.gl](https://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
 * [RAW](https://rawgraphs.io) - Create web visualizations from CSV or Excel files.
@@ -277,8 +277,8 @@ Thanks for your suggestions!
 
 ***
 
-If you have any question about this opinionated list, do not hesitate to contact me [@javierluraschi](https://twitter.com/javierluraschi) on Twitter or [open a GitHub issue](https://github.com/javierluraschi/awesome-dataviz/issues/new) ⭐ 4,388 | 🐛 39 | 📅 2024-01-26.
+If you have any question about this opinionated list, do not hesitate to contact me [@javierluraschi](https://twitter.com/javierluraschi) on Twitter or [open a GitHub issue](https://github.com/javierluraschi/awesome-dataviz/issues/new) ⭐ 4,389 | 🐛 39 | 📅 2024-01-26.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
