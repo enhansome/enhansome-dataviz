@@ -17,11 +17,11 @@
                 "id": 9185792,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T04:13:49Z",
-                "open_issues": 1497,
+                "last_commit": "2026-10-03T08:07:25Z",
+                "open_issues": 1498,
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67440,
+                "stars": 67441,
                 "topics": [
                   "apache",
                   "canvas",
@@ -52,7 +52,7 @@
                 "open_issues": 805,
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18353,
+                "stars": 18354,
                 "topics": [
                   "charting-library",
                   "charts",
@@ -314,7 +314,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3861,
+                "stars": 3862,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -399,7 +399,7 @@
                 "open_issues": 1696,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15791,
+                "stars": 15792,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -607,7 +607,7 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:58:55Z",
+                "last_commit": "2026-10-03T11:48:43Z",
                 "open_issues": 454,
                 "owner": "recharts",
                 "repo": "recharts",
@@ -844,7 +844,7 @@
                 "open_issues": 89,
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1754,
+                "stars": 1755,
                 "topics": [
                   "graph"
                 ]
@@ -959,7 +959,7 @@
             "open_issues": 69,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6225,
+            "stars": 6226,
             "topics": [
               "chart",
               "csv",
@@ -1199,7 +1199,7 @@
             "open_issues": 805,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18353,
+            "stars": 18354,
             "topics": [
               "charting-library",
               "charts",
@@ -1320,10 +1320,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T16:05:37Z",
-            "open_issues": 509,
+            "open_issues": 510,
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3831,
+            "stars": 3832,
             "topics": [
               "3d",
               "finite-element-analysis",
@@ -1620,7 +1620,7 @@
             "open_issues": 1835,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90515,
+            "stars": 90514,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:45.704Z",
+    "last_updated": "2026-10-03T11:58:07.588Z",
     "original_repository_info": {
       "archived": false,
       "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
@@ -1761,7 +1761,7 @@
       "open_issues": 46,
       "owner": "hal9ai",
       "repo": "awesome-dataviz",
-      "stars": 4419,
+      "stars": 4420,
       "topics": [
         "awesome-list",
         "chart",
