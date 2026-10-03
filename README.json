@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T04:13:49Z",
-                "open_issues": 1498,
+                "open_issues": 1497,
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67438,
+                "stars": 67440,
                 "topics": [
                   "apache",
                   "canvas",
@@ -48,11 +48,11 @@
                 "id": 45646037,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:00:09Z",
-                "open_issues": 801,
+                "last_commit": "2026-10-02T21:57:33Z",
+                "open_issues": 805,
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18352,
+                "stars": 18353,
                 "topics": [
                   "charting-library",
                   "charts",
@@ -129,7 +129,7 @@
                 "open_issues": 24,
                 "owner": "nhn",
                 "repo": "tui.chart",
-                "stars": 5401,
+                "stars": 5400,
                 "topics": [
                   "canvas",
                   "chart",
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "React wrapper",
-              "description": null,
+              "description": "hustcc/echarts-for-react",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
                 "open_issues": 3,
                 "owner": "vizzuhq",
                 "repo": "vizzu-lib",
-                "stars": 2037,
+                "stars": 2036,
                 "topics": [
                   "animation",
                   "chart",
@@ -282,7 +282,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12324,
+                "stars": 12322,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -314,7 +314,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3862,
+                "stars": 3861,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -395,11 +395,11 @@
                 "id": 3606738,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:09:36Z",
-                "open_issues": 1693,
+                "last_commit": "2026-10-03T00:28:01Z",
+                "open_issues": 1696,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15788,
+                "stars": 15791,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "See Awesome D3",
-              "description": null,
+              "description": "wbkd/awesome-d3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -607,11 +607,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:39:45Z",
-                "open_issues": 456,
+                "last_commit": "2026-10-03T01:58:55Z",
+                "open_issues": 454,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27611,
+                "stars": 27614,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -878,7 +878,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38184,
+            "stars": 38183,
             "topics": [
               "android",
               "chart",
@@ -905,7 +905,7 @@
             "open_issues": 35,
             "owner": "diogobernardino",
             "repo": "williamchart",
-            "stars": 5096,
+            "stars": 5095,
             "topics": [
               "android",
               "android-library",
@@ -956,10 +956,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-10-01T14:08:57Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6223,
+            "stars": 6225,
             "topics": [
               "chart",
               "csv",
@@ -1043,7 +1043,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-22T12:26:09Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "gonum",
             "repo": "plot",
             "stars": 2969,
@@ -1109,7 +1109,7 @@
             "open_issues": 977,
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28000,
+            "stars": 27997,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
@@ -1195,11 +1195,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:00:09Z",
-            "open_issues": 801,
+            "last_commit": "2026-10-02T21:57:33Z",
+            "open_issues": 805,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18352,
+            "stars": 18353,
             "topics": [
               "charting-library",
               "charts",
@@ -1230,7 +1230,7 @@
             "open_issues": 5,
             "owner": "pyecharts",
             "repo": "pyecharts",
-            "stars": 15775,
+            "stars": 15774,
             "topics": [
               "echarts",
               "python"
@@ -1251,7 +1251,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T19:49:45Z",
-            "open_issues": 335,
+            "open_issues": 338,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
             "stars": 13718,
@@ -1296,7 +1296,7 @@
             "open_issues": 14,
             "owner": "ResidentMario",
             "repo": "missingno",
-            "stars": 4212,
+            "stars": 4211,
             "topics": [
               "data-analysis",
               "data-visualization",
@@ -1319,11 +1319,11 @@
             "id": 92974124,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:01:14Z",
-            "open_issues": 510,
+            "last_commit": "2026-10-02T16:05:37Z",
+            "open_issues": 509,
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3830,
+            "stars": 3831,
             "topics": [
               "3d",
               "finite-element-analysis",
@@ -1378,7 +1378,7 @@
             "open_issues": 56,
             "owner": "spotify",
             "repo": "chartify",
-            "stars": 3652,
+            "stars": 3653,
             "topics": [
               "bokeh",
               "data-science",
@@ -1466,7 +1466,7 @@
             "open_issues": 3,
             "owner": "tehmaze",
             "repo": "diagram",
-            "stars": 409,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
@@ -1549,7 +1549,7 @@
             "open_issues": 761,
             "owner": "plotly",
             "repo": "plotly.R",
-            "stars": 2683,
+            "stars": 2682,
             "topics": [
               "d3js",
               "data-visualization",
@@ -1617,10 +1617,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T12:51:28Z",
-            "open_issues": 1830,
+            "open_issues": 1835,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90514,
+            "stars": 90515,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -1646,8 +1646,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T15:30:17Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-02T19:53:53Z",
+            "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6657,
@@ -1678,7 +1678,7 @@
             "open_issues": 17,
             "owner": "holman",
             "repo": "spark",
-            "stars": 6070,
+            "stars": 6068,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:06:08.940Z",
+    "last_updated": "2026-10-03T04:38:45.704Z",
     "original_repository_info": {
       "archived": false,
       "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
