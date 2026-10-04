@@ -17,11 +17,11 @@
                 "id": 9185792,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T08:07:25Z",
-                "open_issues": 1498,
+                "last_commit": "2026-10-04T10:59:25Z",
+                "open_issues": 1493,
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67441,
+                "stars": 67448,
                 "topics": [
                   "apache",
                   "canvas",
@@ -48,11 +48,11 @@
                 "id": 45646037,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:57:33Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-03T20:12:39Z",
+                "open_issues": 808,
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18354,
+                "stars": 18355,
                 "topics": [
                   "charting-library",
                   "charts",
@@ -108,7 +108,7 @@
                 "open_issues": 565,
                 "owner": "novus",
                 "repo": "nvd3",
-                "stars": 7228,
+                "stars": 7229,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
@@ -141,6 +141,33 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Observable Plot",
+              "description": "A JavaScript library for exploratory data visualization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A concise API for exploratory data visualization implementing a layered grammar of graphics",
+                "homepage": "https://observablehq.com/plot/",
+                "id": 308464842,
+                "language": "HTML",
+                "license": "ISC",
+                "last_commit": "2026-09-01T17:19:43Z",
+                "open_issues": 348,
+                "owner": "observablehq",
+                "repo": "plot",
+                "stars": 5399,
+                "topics": [
+                  "charts",
+                  "d3",
+                  "data-visualization",
+                  "svg",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             },
             {
               "node_type": "item",
@@ -231,6 +258,37 @@
             },
             {
               "node_type": "item",
+              "title": "dxcharts-lite",
+              "description": "Flexible financial charting library based on HTML5 canvas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Flexible financial charts based on HTML5 canvas",
+                "homepage": "https://devexperts.com/dxcharts/",
+                "id": 676136992,
+                "language": "TypeScript",
+                "license": "MPL-2.0",
+                "last_commit": "2026-09-22T11:27:18Z",
+                "open_issues": 13,
+                "owner": "devexperts",
+                "repo": "dxcharts-lite",
+                "stars": 101,
+                "topics": [
+                  "canvas",
+                  "chart",
+                  "charting",
+                  "charting-library",
+                  "charts",
+                  "finance",
+                  "html5-charts",
+                  "javascript",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
+            },
+            {
+              "node_type": "item",
               "title": "lit-line",
               "description": "SVG Line Chart Web Component - light, fast, interactive & fully responsive.",
               "children": [],
@@ -258,6 +316,33 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Glyph",
+              "description": "Deterministic chart library — same JSON spec → same SVG bytes, every platform. Grammar of graphics with DuckDB inside, MCP-native for AI agents, byte-identical visual regression, SHA-256 provenance seal. Apache 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Deterministic, MCP-native charts for AI agents — AI-built, AI-maintained. 52 verbs, byte-stable SVG, DuckDB inside.",
+                "homepage": "https://seanhanca.github.io/glyph/",
+                "id": 1240901809,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-05T19:54:18Z",
+                "open_issues": 1,
+                "owner": "seanhanca",
+                "repo": "glyph",
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "data-visualization",
+                  "duckdb",
+                  "grammar-of-graphics",
+                  "mcp"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             }
           ],
           "description": null,
@@ -282,7 +367,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12322,
+                "stars": 12323,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -375,6 +460,35 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vizdom",
+              "description": "A declarative graph layout and rendering engine for Javascript/Typescript powered by Rust/WebAssembly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A diagrams-as-code library for TypeScript with zero dependencies",
+                "homepage": "https://vizdom.dev",
+                "id": 823419403,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2025-02-16T08:47:29Z",
+                "open_issues": 1,
+                "owner": "vizdom-dev",
+                "repo": "vizdom",
+                "stars": 193,
+                "topics": [
+                  "dag",
+                  "dagre",
+                  "diagramming",
+                  "diagrams-as-code",
+                  "graphs",
+                  "graphviz",
+                  "svg"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             }
           ],
           "description": null,
@@ -396,10 +510,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T00:28:01Z",
-                "open_issues": 1696,
+                "open_issues": 1698,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15792,
+                "stars": 15798,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -501,6 +615,35 @@
             },
             {
               "node_type": "item",
+              "title": "Pharos AI",
+              "description": "Open-source OSINT conflict-tracking dashboard with geospatial visualization using Deck.gl, MapLibre, and React. (Source Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source OSINT intelligence dashboard tracking the Iran conflict in real time — live DeckGL/MapLibre conflict map, 30 bias-labeled feeds, actor dossiers, and daily briefs. Live at conflicts.app.",
+                "homepage": "https://conflicts.app/",
+                "id": 1170701406,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-05-16T10:18:45Z",
+                "open_issues": 24,
+                "owner": "Juliusolsson05",
+                "repo": "pharos-ai",
+                "stars": 182,
+                "topics": [
+                  "conflict-tracking",
+                  "deckgl",
+                  "geopolitics",
+                  "intelligence",
+                  "maplibre",
+                  "nextjs",
+                  "osint"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
+            },
+            {
+              "node_type": "item",
               "title": "L7 Plot",
               "description": "Geospatial Visualization Chart Library, maintained by Alibaba",
               "children": [],
@@ -553,6 +696,77 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Globedots",
+              "description": "Dot-matrix WebGL2 globe in 17 kB with markers, arcs, labels, heat maps, and a day-night line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A dot-matrix globe on WebGL2. 18.4 kB gzipped, no dependency, no three.js.  Markers, arcs, paths, bars, rings, labels, per-dot data, heat maps, borders, a day-night line, click and hover events, and picking. The globe draws only when something changes.",
+                "homepage": "https://swamoth.github.io/globedots/",
+                "id": 1376209177,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-18T19:13:12Z",
+                "open_issues": 0,
+                "owner": "swamoth",
+                "repo": "globedots",
+                "stars": 1,
+                "topics": [
+                  "3d-globe",
+                  "data-visualization",
+                  "dot-matrix",
+                  "globe",
+                  "map",
+                  "react",
+                  "three-js-alternative",
+                  "typescript",
+                  "webgl",
+                  "webgl2"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CanvasGlobe",
+              "description": "Interactive Canvas 2D globes and flat world maps for JavaScript and React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zero-dependency JavaScript and React library for interactive 3D globes and flat world maps on Canvas 2D. No WebGL, map tiles, API key, or runtime network requests.",
+                "homepage": "https://canvasglobe.swiftools.com/",
+                "id": 1357633399,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-22T19:54:09Z",
+                "open_issues": 3,
+                "owner": "Shree-hari",
+                "repo": "canvas-globe",
+                "stars": 0,
+                "topics": [
+                  "3d-globe",
+                  "canvas",
+                  "canvas-2d",
+                  "choropleth",
+                  "data-visualization",
+                  "geospatial",
+                  "globe",
+                  "great-circle-arcs",
+                  "interactive-map",
+                  "javascript",
+                  "no-webgl",
+                  "npm-package",
+                  "react",
+                  "react-globe",
+                  "web-component",
+                  "world-map",
+                  "zero-dependency"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             }
           ],
           "description": null,
@@ -577,7 +791,7 @@
                 "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "charts",
                   "d3js",
@@ -607,11 +821,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T11:48:43Z",
+                "last_commit": "2026-10-04T10:38:11Z",
                 "open_issues": 454,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27614,
+                "stars": 27612,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -673,7 +887,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8786,
+                "stars": 8785,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -712,6 +926,45 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Graphic Walker",
+              "description": "An embeddable React component that functions as an open source alternative to Tableau, which allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open source alternative to Tableau. Embeddable visual analytic",
+                "homepage": "https://kanaries.net/graphic-walker",
+                "id": 542017915,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-01T16:40:39Z",
+                "open_issues": 48,
+                "owner": "Kanaries",
+                "repo": "graphic-walker",
+                "stars": 3257,
+                "topics": [
+                  "bi",
+                  "data",
+                  "data-analysis",
+                  "data-mining",
+                  "data-visualization",
+                  "eda",
+                  "k6s",
+                  "kanaries",
+                  "low-code",
+                  "pivot-table",
+                  "react",
+                  "tableau",
+                  "tableau-alternative",
+                  "typescript",
+                  "vega",
+                  "vega-lite",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             },
             {
               "node_type": "item",
@@ -767,43 +1020,44 @@
           "description": null,
           "node_type": "group",
           "title": "React"
-        }
-      ],
-      "title": "JavaScript tools"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
-          "node_type": "item",
-          "title": "F2",
-          "description": "An elegant, interactive and flexible charting library for mobile, maintained by Alibaba",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📱📈An elegant, interactive and flexible charting library for mobile.",
-            "homepage": "https://f2.antv.antgroup.com/",
-            "id": 66817370,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-19T10:57:41Z",
-            "open_issues": 302,
-            "owner": "antvis",
-            "repo": "F2",
-            "stars": 7997,
-            "topics": [
-              "antv",
-              "charts",
-              "data-visualisation",
-              "data-visualization",
-              "f2",
-              "grammar",
-              "html5-canvas",
-              "mobile",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T18:59:00.402Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "F2",
+              "description": "An elegant, interactive and flexible charting library for mobile, maintained by Alibaba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📱📈An elegant, interactive and flexible charting library for mobile.",
+                "homepage": "https://f2.antv.antgroup.com/",
+                "id": 66817370,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-05-19T10:57:41Z",
+                "open_issues": 302,
+                "owner": "antvis",
+                "repo": "F2",
+                "stars": 7997,
+                "topics": [
+                  "antv",
+                  "charts",
+                  "data-visualisation",
+                  "data-visualization",
+                  "f2",
+                  "grammar",
+                  "html5-canvas",
+                  "mobile",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-08-28T18:59:00.402Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Native"
         },
         {
           "children": [
@@ -844,12 +1098,74 @@
                 "open_issues": 89,
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "graph"
                 ]
               },
               "first_seen": "2026-08-28T18:59:00.402Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ODataMap",
+              "description": "Interactive scientific research data map. Visualizes 250M+ papers across 7 knowledge continents using D3.js. Demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🗺️ 科研数据地图 — AI驱动的全球科研可视化平台 | Research Data Map with 250M+ papers",
+                "homepage": "https://odatamap.cherishchen2510.workers.dev",
+                "id": 1197756793,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-04-04T17:20:38Z",
+                "open_issues": 0,
+                "owner": "CherishChenCherish",
+                "repo": "odatamap",
+                "stars": 10,
+                "topics": [
+                  "academic",
+                  "ai",
+                  "china",
+                  "cloudflare-workers",
+                  "d3js",
+                  "data-visualization",
+                  "deepseek",
+                  "interactive-map",
+                  "nextjs",
+                  "openai",
+                  "openalex",
+                  "research",
+                  "scientific-research",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gp-treemap",
+              "description": "Open source HTML canvas treemap component supporting millions of nodes, and some functional resource usage tools, like disk and S3 usage visualization (GrandPerspective-style)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Beautiful, interactive, large-scale treemaps for the web. Visualize resource usage, budgets, tabular data — anything hierarchical.",
+                "homepage": null,
+                "id": 1215280782,
+                "language": "HTML",
+                "license": "GPL-2.0",
+                "last_commit": "2026-05-20T20:56:34Z",
+                "open_issues": 5,
+                "owner": "imbue-ai",
+                "repo": "gp-treemap",
+                "stars": 10,
+                "topics": [
+                  "data-visualization",
+                  "disk-usage",
+                  "resource-usage",
+                  "treemaps"
+                ]
+              },
+              "first_seen": "2026-10-04T12:49:05.322Z"
             }
           ],
           "description": null,
@@ -857,7 +1173,7 @@
           "title": "Misc"
         }
       ],
-      "title": "React Native"
+      "title": "JavaScript tools"
     },
     {
       "description": null,
@@ -956,10 +1272,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-10-01T14:08:57Z",
-            "open_issues": 69,
+            "open_issues": 71,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6226,
+            "stars": 6230,
             "topics": [
               "chart",
               "csv",
@@ -977,6 +1293,68 @@
             ]
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "F3D",
+          "description": "Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fast and minimalist 3D viewer.",
+            "homepage": "https://f3d.app",
+            "id": 241178673,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-03T07:21:05Z",
+            "open_issues": 318,
+            "owner": "f3d-app",
+            "repo": "f3d",
+            "stars": 4741,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "3d-viewer",
+              "command-line-tool",
+              "dxf",
+              "fbx",
+              "glb",
+              "gltf",
+              "gltf-viewer",
+              "graphics",
+              "obj",
+              "physically-based-rendering",
+              "raytracing",
+              "rendering",
+              "step",
+              "stl-viewer",
+              "usd",
+              "volume-rendering",
+              "vtk"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Polyscope",
+          "description": "Viewer and user interface for 3D geometry processing. (C++, MIT, GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A C++ & Python viewer for 3D data like meshes and point clouds",
+            "homepage": "https://polyscope.run",
+            "id": 111565012,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-09-06T01:42:27Z",
+            "open_issues": 127,
+            "owner": "nmwsharp",
+            "repo": "polyscope",
+            "stars": 2214,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -998,6 +1376,40 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TTK",
+          "description": "Topological data analysis and visualization. (C++/Python, BSD, GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TTK - Topological Data Analysis and Visualization - Source Code",
+            "homepage": "https://topology-tool-kit.github.io/",
+            "id": 83953525,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-03T05:22:13Z",
+            "open_issues": 23,
+            "owner": "topology-tool-kit",
+            "repo": "ttk",
+            "stars": 481,
+            "topics": [
+              "c-plus-plus",
+              "contour-tree",
+              "discrete-morse-theory",
+              "merge-tree",
+              "morse-smale-complex",
+              "paraview",
+              "persistent-homology",
+              "python",
+              "reeb-graph",
+              "topological-data-analysis",
+              "visualization",
+              "vtk"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         }
       ],
       "title": "C++ tools"
@@ -1007,7 +1419,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "go-echars",
+          "title": "go-echarts",
           "description": "Simple yet powerful data visualizing library for Go.",
           "children": [],
           "repo_info": {
@@ -1018,7 +1430,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-27T02:04:19Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "go-echarts",
             "repo": "go-echarts",
             "stars": 7644,
@@ -1185,6 +1597,155 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Opik",
+          "description": "Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+            "homepage": "https://www.comet.com/docs/opik/",
+            "id": 638951438,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-04T12:34:46Z",
+            "open_issues": 173,
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 22370,
+            "topics": [
+              "evaluation",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": "ML observability in a notebook with UMAP visualizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
+            "id": 564072810,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T08:31:43Z",
+            "open_issues": 1106,
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11703,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TensorWatch",
+          "description": "Debugging and visualization tool for data science and machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Debugging, monitoring and visualization for Python Machine Learning and Data Science",
+            "homepage": null,
+            "id": 186783422,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-03-30T21:27:28Z",
+            "open_issues": 54,
+            "owner": "microsoft",
+            "repo": "tensorwatch",
+            "stars": 3474,
+            "topics": [
+              "ai",
+              "data-science",
+              "debug",
+              "debugging",
+              "debugging-tool",
+              "deep-learning",
+              "deeplearning",
+              "explainable-ai",
+              "explainable-ml",
+              "jupyter",
+              "jupyter-notebook",
+              "machine-learning",
+              "machinelearning",
+              "model-visualization",
+              "monitoring",
+              "python",
+              "reinforcement-learning",
+              "saliency"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Comet",
+          "description": "An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Examples of Machine Learning code using Comet.ml ",
+            "homepage": null,
+            "id": 158587515,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2026-08-12T16:26:17Z",
+            "open_issues": 27,
+            "owner": "comet-ml",
+            "repo": "comet-examples",
+            "stars": 175,
+            "topics": [
+              "comet-ml",
+              "deep-learning",
+              "deep-learning-algorithms",
+              "deep-learning-libraries",
+              "deep-learning-python",
+              "machine-learning",
+              "machine-learning-platform",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        }
+      ],
+      "title": "Machine Learning tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "plotly",
           "description": "Interactive web based visualization built on top of plotly.js",
           "children": [],
@@ -1195,11 +1756,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:57:33Z",
-            "open_issues": 805,
+            "last_commit": "2026-10-03T20:12:39Z",
+            "open_issues": 808,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18354,
+            "stars": 18355,
             "topics": [
               "charting-library",
               "charts",
@@ -1216,7 +1777,7 @@
         },
         {
           "node_type": "item",
-          "title": "pyechars",
+          "title": "pyecharts",
           "description": "Python binding for Echarts library.",
           "children": [],
           "repo_info": {
@@ -1254,7 +1815,7 @@
             "open_issues": 338,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13718,
+            "stars": 13719,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -1279,6 +1840,35 @@
             ]
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rerun",
+          "description": "An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualize, query, and stream to train on multimodal robotics data.",
+            "homepage": "https://rerun.io/",
+            "id": 479289739,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-02T11:31:11Z",
+            "open_issues": 1254,
+            "owner": "rerun-io",
+            "repo": "rerun",
+            "stars": 11542,
+            "topics": [
+              "computer-vision",
+              "cpp",
+              "multimodal",
+              "python",
+              "robotics",
+              "rust",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -1319,8 +1909,8 @@
             "id": 92974124,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:05:37Z",
-            "open_issues": 510,
+            "last_commit": "2026-10-04T05:06:44Z",
+            "open_issues": 509,
             "owner": "pyvista",
             "repo": "pyvista",
             "stars": 3832,
@@ -1340,6 +1930,31 @@
             ]
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bqplot",
+          "description": "Plotting library for IPython/Jupyter notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Plotting library for IPython/Jupyter notebooks",
+            "homepage": "https://bqplot.github.io/bqplot",
+            "id": 43191201,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-07T08:33:08Z",
+            "open_issues": 279,
+            "owner": "bqplot",
+            "repo": "bqplot",
+            "stars": 3693,
+            "topics": [
+              "ipython",
+              "jupyter",
+              "visualizations"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -1389,6 +2004,39 @@
             ]
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vedo",
+          "description": "Library for scientific analysis and visualization of 3D objects based on VTK. (Python, MIT, GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A python module for scientific analysis of 3D data based on VTK and Numpy",
+            "homepage": "https://vedo.embl.es",
+            "id": 110261047,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-04T14:34:23Z",
+            "open_issues": 172,
+            "owner": "marcomusy",
+            "repo": "vedo",
+            "stars": 2272,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "finite-elements",
+              "mesh",
+              "numpy",
+              "python",
+              "scientific-research",
+              "scientific-visualization",
+              "simulations",
+              "visualization",
+              "vtk"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -1452,6 +2100,74 @@
         },
         {
           "node_type": "item",
+          "title": "yt",
+          "description": "Toolkit for analysis and visualization of volumetric data. (Python, BSD, GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Main yt repository",
+            "homepage": "http://yt-project.org",
+            "id": 88776493,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-02T21:27:15Z",
+            "open_issues": 501,
+            "owner": "yt-project",
+            "repo": "yt",
+            "stars": 559,
+            "topics": [
+              "analysis",
+              "astronomy",
+              "astrophysics",
+              "data",
+              "data-visualization",
+              "finite-element-analysis",
+              "geophysics",
+              "nuclear-engineering",
+              "python",
+              "scientific-computing",
+              "scientific-visualization",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "uniplot",
+          "description": "Lightweight plotting to the terminal. 4x resolution via Unicode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight plotting to the terminal. 4x resolution via Unicode.",
+            "homepage": null,
+            "id": 287741259,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-07T12:03:05Z",
+            "open_issues": 2,
+            "owner": "olavolav",
+            "repo": "uniplot",
+            "stars": 460,
+            "topics": [
+              "ascii-art",
+              "braille",
+              "ci",
+              "cli",
+              "console",
+              "dataviz",
+              "observability",
+              "plot",
+              "python",
+              "terminal",
+              "tui",
+              "unicode"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
           "title": "diagram",
           "description": "Text mode diagrams using UTF-8 characters",
           "children": [],
@@ -1470,6 +2186,39 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Quibbler",
+          "description": "Your data and anything you plot is effortlessly live and interactive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your data - interactive!",
+            "homepage": null,
+            "id": 405652728,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-08-30T12:51:32Z",
+            "open_issues": 25,
+            "owner": "Technion-Kishony-lab",
+            "repo": "quibbler",
+            "stars": 332,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "declarative",
+              "graphics",
+              "gui",
+              "interactive",
+              "jupyter",
+              "matplotlib",
+              "python",
+              "widgets"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -1526,6 +2275,35 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "syd",
+          "description": "A package for making GUIs around matplotlib figures easy, fast, and streamlined.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A package to help you share your data by making GUIs the easiest thing in the world!",
+            "homepage": "https://shareyourdata.readthedocs.io",
+            "id": 914559607,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-11T12:59:22Z",
+            "open_issues": 1,
+            "owner": "landoskape",
+            "repo": "syd",
+            "stars": 30,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "flask",
+              "gui",
+              "interactive-visualizations",
+              "matplotlib",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         }
       ],
       "title": "Python tools"
@@ -1602,6 +2380,62 @@
       "title": "Ruby tools"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rerun",
+          "description": "An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualize, query, and stream to train on multimodal robotics data.",
+            "homepage": "https://rerun.io/",
+            "id": 479289739,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-02T11:31:11Z",
+            "open_issues": 1254,
+            "owner": "rerun-io",
+            "repo": "rerun",
+            "stars": 11542,
+            "topics": [
+              "computer-vision",
+              "cpp",
+              "multimodal",
+              "python",
+              "robotics",
+              "rust",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "malevich",
+          "description": "Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal plotting library for Rust, for people who look at numbers for a living",
+            "homepage": "https://shergin.github.io/malevich/",
+            "id": 1319814866,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-03T22:12:00Z",
+            "open_issues": 0,
+            "owner": "shergin",
+            "repo": "malevich",
+            "stars": 70,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        }
+      ],
+      "title": "Rust tools"
+    },
+    {
       "description": "Tools that are not tied to a particular platform or language.",
       "items": [
         {
@@ -1616,11 +2450,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:51:28Z",
-            "open_issues": 1835,
+            "last_commit": "2026-10-03T23:12:17Z",
+            "open_issues": 1847,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90514,
+            "stars": 90528,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -1633,6 +2467,45 @@
             ]
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ChartDB",
+          "description": "An Open-source tool to visualize database schemas and generate ER diagrams from a single query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+            "homepage": "https://chartdb.io",
+            "id": 838212912,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-13T08:43:19Z",
+            "open_issues": 172,
+            "owner": "chartdb",
+            "repo": "chartdb",
+            "stars": 22987,
+            "topics": [
+              "database",
+              "db",
+              "db-migration",
+              "editor",
+              "erd",
+              "mariadb",
+              "mssql",
+              "mysql",
+              "postgresql",
+              "react",
+              "react-flow",
+              "schema-migrations",
+              "sql",
+              "sqlite",
+              "typescript",
+              "visualization",
+              "xyflow"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         },
         {
           "node_type": "item",
@@ -1650,7 +2523,7 @@
             "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6657,
+            "stars": 6658,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1699,7 +2572,47 @@
             "open_issues": 68,
             "owner": "Kanaries",
             "repo": "Rath",
-            "stars": 4687,
+            "stars": 4686,
+            "topics": [
+              "augmented-analytics",
+              "automated-data-analysis",
+              "automated-visualization",
+              "autovis",
+              "causal-discovery",
+              "causal-inference",
+              "causality",
+              "data-analysis",
+              "data-exploration",
+              "data-visualization",
+              "datamining",
+              "eda",
+              "k6s",
+              "kanaries",
+              "machine-learning",
+              "tableau",
+              "tableau-alternative",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RATH",
+          "description": "Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Next generation of automated data exploratory analysis and visualization platform.",
+            "homepage": "https://rath.kanaries.net",
+            "id": 204949916,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-14T21:24:23Z",
+            "open_issues": 68,
+            "owner": "Kanaries",
+            "repo": "Rath",
+            "stars": 4686,
             "topics": [
               "augmented-analytics",
               "automated-data-analysis",
@@ -1743,13 +2656,102 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:00.402Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DAC",
+          "description": "Dashboard-as-code tool that builds interactive dashboards from YAML and TSX definitions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.",
+            "homepage": "https://getbruin.com/docs/dac/",
+            "id": 1183363889,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-01T13:08:11Z",
+            "open_issues": 10,
+            "owner": "bruin-data",
+            "repo": "dac",
+            "stars": 779,
+            "topics": [
+              "ai-agents",
+              "business-intelligence",
+              "dashboard",
+              "semantic-layer"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Resseract Lite",
+          "description": "A Data Analytics and Visualization Tool with flexible architecture to visualize and analyse data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Data Analytics Tool with flexible architecture to visualize and analyse data",
+            "homepage": null,
+            "id": 632341172,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2024-08-24T08:54:25Z",
+            "open_issues": 6,
+            "owner": "abistarun",
+            "repo": "resseract-lite",
+            "stars": 7,
+            "topics": [
+              "analystics",
+              "charts",
+              "custom-dashboards",
+              "data",
+              "data-science",
+              "data-visualization",
+              "diverse-data-sources",
+              "expression-language",
+              "geochart",
+              "geocharts",
+              "interactive-data-exploration",
+              "light-weight",
+              "lightweight",
+              "monitoring",
+              "resseract",
+              "resseract-lite",
+              "slice",
+              "tool",
+              "visualisations",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ink-uplot",
+          "description": "Render uPlot charts in the terminal (React Ink) with truecolor Unicode and kitty/sixel/iTerm2 graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1179322304,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-30T19:59:03Z",
+            "open_issues": 14,
+            "owner": "planadecu",
+            "repo": "ink-uplot",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T12:49:05.322Z"
         }
       ],
       "title": "Other tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:58:07.588Z",
+    "last_updated": "2026-10-04T12:49:05.322Z",
     "original_repository_info": {
       "archived": false,
       "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
@@ -1757,11 +2759,11 @@
       "id": 39454666,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2024-01-26T12:36:48Z",
-      "open_issues": 46,
+      "last_commit": "2026-10-04T00:21:11Z",
+      "open_issues": 10,
       "owner": "hal9ai",
       "repo": "awesome-dataviz",
-      "stars": 4420,
+      "stars": 4421,
       "topics": [
         "awesome-list",
         "chart",
@@ -1771,7 +2773,7 @@
         "visualize-data"
       ]
     },
-    "original_repository_sha": "a5f77ccdb5ce1c4943c4e91e844af8776238b39e",
+    "original_repository_sha": "4e6dc33fedd7ccf3710b404841c78f2d00a287a2",
     "enhanced_repository": "enhansome/enhansome-dataviz",
     "enhanced_repository_description": null,
     "title": "Awesome Dataviz with stars"
